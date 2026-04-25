@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\TP\\TP MODUL 9 - KONSEP RUNTIME CONFIGURATION DAN INTERNATIONALIZATION\\TP_MODUL9_30004\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BF86633-6171-45D6-9AC3-0FFDFEA4DE14}|TP_MODUL9_30004\\TP_MODUL9_30004.csproj|c:\\users\\msi gf63\\documents\\tel-u\\semester 4\\konstruksi perangkat lunak\\tp\\tp modul 9 - konsep runtime configuration dan internationalization\\tp_modul9_30004\\tp_modul9_30004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BF86633-6171-45D6-9AC3-0FFDFEA4DE14}|TP_MODUL9_30004\\TP_MODUL9_30004.csproj|solutionrelative:tp_modul9_30004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{653ABB83-7C00-45C3-19E0-C12CECF7FEC7}|TP_MODUL9_30004\\TP_MODUL9_30004.csproj|c:\\users\\msi gf63\\documents\\tel-u\\semester 4\\konstruksi perangkat lunak\\tp\\tp modul 9 - konsep runtime configuration dan internationalization\\tp_modul9_30004\\tp_modul9_30004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653ABB83-7C00-45C3-19E0-C12CECF7FEC7}|TP_MODUL9_30004\\TP_MODUL9_30004.csproj|solutionrelative:tp_modul9_30004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653ABB83-7C00-45C3-19E0-C12CECF7FEC7}|TP_MODUL9_30004\\TP_MODUL9_30004.csproj|c:\\users\\msi gf63\\documents\\tel-u\\semester 4\\konstruksi perangkat lunak\\tp\\tp modul 9 - konsep runtime configuration dan internationalization\\tp_modul9_30004\\tp_modul9_30004\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{653ABB83-7C00-45C3-19E0-C12CECF7FEC7}|TP_MODUL9_30004\\TP_MODUL9_30004.csproj|solutionrelative:tp_modul9_30004\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653ABB83-7C00-45C3-19E0-C12CECF7FEC7}|TP_MODUL9_30004\\TP_MODUL9_30004.csproj|c:\\users\\msi gf63\\documents\\tel-u\\semester 4\\konstruksi perangkat lunak\\tp\\tp modul 9 - konsep runtime configuration dan internationalization\\tp_modul9_30004\\tp_modul9_30004\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653ABB83-7C00-45C3-19E0-C12CECF7FEC7}|TP_MODUL9_30004\\TP_MODUL9_30004.csproj|solutionrelative:tp_modul9_30004\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\TP\\TP MODUL 9 - KONSEP RUNTIME CONFIGURATION DAN INTERNATIONALIZATION\\TP_MODUL9_30004\\TP_MODUL9_30004\\covid_config.json",
+              "RelativeDocumentMoniker": "TP_MODUL9_30004\\covid_config.json",
+              "ToolTip": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\TP\\TP MODUL 9 - KONSEP RUNTIME CONFIGURATION DAN INTERNATIONALIZATION\\TP_MODUL9_30004\\TP_MODUL9_30004\\covid_config.json",
+              "RelativeToolTip": "TP_MODUL9_30004\\covid_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-25T07:50:47.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\TP\\TP MODUL 9 - KONSEP RUNTIME CONFIGURATION DAN INTERNATIONALIZATION\\TP_MODUL9_30004\\TP_MODUL9_30004\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "TP_MODUL9_30004\\CovidConfig.cs",
+              "ToolTip": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\TP\\TP MODUL 9 - KONSEP RUNTIME CONFIGURATION DAN INTERNATIONALIZATION\\TP_MODUL9_30004\\TP_MODUL9_30004\\CovidConfig.cs",
+              "RelativeToolTip": "TP_MODUL9_30004\\CovidConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:47:57.61Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +62,7 @@
               "RelativeDocumentMoniker": "TP_MODUL9_30004\\Program.cs",
               "ToolTip": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\TP\\TP MODUL 9 - KONSEP RUNTIME CONFIGURATION DAN INTERNATIONALIZATION\\TP_MODUL9_30004\\TP_MODUL9_30004\\Program.cs",
               "RelativeToolTip": "TP_MODUL9_30004\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T07:41:25.355Z",
               "EditorCaption": ""
